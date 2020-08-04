@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**horus018/horus018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, seja bem-vindo(a).👋
+<br/>Muito prazer, me chamo Lucas, tenho 19 anos e estou ingressando no mundo da programação recentemente. Sou muito curioso, criativo e gosto de aprender coisas novas.😊
+<br/>Atualmente estou fazendo faculdade de sistemas para internet na UTFPR em Toledo, Paraná.
+<br/>Não estou trabalhando no momento mas busco sim futuramento trabalhar na área.
+<br/>Hoje em dia estudo java script na udemy e vejo os videos da NLW (obs: fiz o projeto da primeira semana da NLW, subi ele no meu reporitório recentemente)
+<br/>Sonho com um dia poder criar aplicações que possam facilitar a vida das pessoas de algum modo, como não tenho muitas idéias, continuo estudando 
+<br/>para que consiga pensar em algo.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>contato: 
+<br/>gmail:     rubira820@gmail.com
+<br/>LinedIn:   https://www.linkedin.com/in/lucas-rubira-43b8a91a4/    
+
+
+
+
